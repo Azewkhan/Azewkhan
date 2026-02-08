@@ -1,4 +1,6 @@
-### Hi there 👋
+Data Scientist | Data Analyst | Turning Data into Insights
+
+I’m a passionate Data Scientist and Data Analyst who loves transforming raw data into meaningful insights. Skilled in data analysis, statistical modeling, SQL, and machine learning, I enjoy solving real-world problems using data-driven approaches. Always learning, always improving.
 
 <!--
 **Azewkhan/Azewkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
