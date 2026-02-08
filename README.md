@@ -1,4 +1,4 @@
-Data Scientist | Data Analyst | Turning Data into Insights
+**Data Scientist | Data Analyst | Turning Data into Insights**
 
 I’m a passionate Data Scientist and Data Analyst who loves transforming raw data into meaningful insights. Skilled in data analysis, statistical modeling, SQL, and machine learning, I enjoy solving real-world problems using data-driven approaches. Always learning, always improving.
 
